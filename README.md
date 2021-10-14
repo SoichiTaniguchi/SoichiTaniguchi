@@ -1,16 +1,7 @@
-# github-profile-summary-cards-example
+### 👋Hi! I'm Soichi
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+![](https://raw.githubusercontent.com/SoichiTaniguchi/SoichiTaniguchi/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/SoichiTaniguchi/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/SoichiTaniguchi/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SoichiTaniguchi/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/SoichiTaniguchi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SoichiTaniguchi/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/SoichiTaniguchi/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/****/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/SoichiTaniguchi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SoichiTaniguchi/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/SoichiTaniguchi/github-profile-summary-cards)
-
-[More Info](https://github.com/SoichiTaniguchi/github-profile-summary-cards)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
